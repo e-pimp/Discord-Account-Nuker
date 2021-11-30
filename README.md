@@ -6,8 +6,8 @@
 
 ---
 
-### Table of Contents
-You're sections headers will be used to reference location of destination.
+### Contents
+Click On The HyperLinks Below To Get Redirected.
 
 - [Description](#description)
 - [How To Use](#how-to-use)
