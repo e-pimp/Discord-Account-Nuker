@@ -23,7 +23,10 @@ a discord account nuker with lots of tools that will destroy a discord account (
 ---
 
 ## How To Use
-run the start.bat but make sure you have installed all the pip installations
+run the start.bat but make sure you have installed all the pip installations,
+
+Enter A Vaild Token (pick a number from 1-8 depeniding on what option you want to run)
+and enjoy!
 
 #### Installation
 run the setup.bat to install all pip moduels
