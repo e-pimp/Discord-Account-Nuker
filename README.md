@@ -1,41 +1,36 @@
-# Discord Account Nuker
-
+## Advanced Discord Account Nuker: 
 ![Project Image](https://user-images.githubusercontent.com/94387389/144058764-5d0d6442-1acf-47eb-89bf-eee4162dd9e6.png)
 
-> this is the fastest discord account nuker made by firexi.
 
----
+### Features:
 
-### Contents
-Click On The HyperLinks Below To Get Redirected.
+- `Most Advanced Nuker!`
+- `Remove All Friends`
+- `Delete All Servers`
+- `Leave All Servers`
+- `Server Spammer`
+- `Disable Account`
+- `Login With Token`
+- `Scrape Account Info`
+- `Light To Dark Mode (Spammer)`
+- `Language Changer Spammer`
 
-- [Description](#description)
-- [How To Use](#how-to-use)
-- [Author Info](#author-info)
+## ❗  - Important:
+- Make sure to have [Python](https://www.python.org/downloads/) 3.10.0 before Downloading! 
 
----
+![image](https://user-images.githubusercontent.com/94531396/144041711-9ae57771-8073-4be2-b711-83f04a0c90cc.png)
 
-## Description
+- Also make sure to have python added to [PATH](https://datatofish.com/add-python-to-windows-path/)
 
-a discord account nuker with lots of tools that will destroy a discord account (token destroyer... and much more).
+![image](https://user-images.githubusercontent.com/94531396/144043762-62686438-ddf5-40fb-a0a2-d2834daaa660.png)
 
+## ❗  - Installation:
+#### 1st・Installation (Source Code)
+```
+git clone https://github.com/e-pimp/Discord-Account-Nuker
+run setup.bat to install all pip moduels
+run start.bat to start the tool
+```
 
----
-
-## How To Use
-run the start.bat but make sure you have installed all the pip installations,
-
-Enter A Vaild Token (pick a number from 1-8 depeniding on what option you want to run)
-and enjoy!
-
-#### Installation
-run the setup.bat to install all pip moduels
-
----
-
-## Author Info
-
-- Discord - [@firexi#0001](https://www.discord.gg/hoard)
-- Website - [FireXI](https://www.blackpeople.tk)
-
-[Back To The Top](#read-me-template)
+- Make sure to join my [discord](https://discord.gg/hoard) and feel free to dm me @firexi#0001. Thanks for using my account nuker!
+- Coded / Developed by @firexi#0001
