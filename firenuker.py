@@ -36,7 +36,7 @@ token = input(
 ▒▒▒▒▒▒▒ ▒▒▒▒▒   ▒▒ ▒▒   ▒▒ ▒▒   ▒▒ ▒▒▒▒▒   ▒▒   ▒▒ 
      ▓▓ ▓▓  ▓▓  ▓▓ ▓▓   ▓▓ ▓▓   ▓▓ ▓▓      ▓▓   ▓▓ 
 ███████ ██   ██ ██ ██████  ██████  ███████ ██████  
-Made by firexi#0001 | discord.gg/hoard                                                     
+Made by firexi#0001 | discord.gg/dismal                                                     
 """
     "\033[91m\n\n[>>>]   Token:\033[00m"
 )
@@ -96,7 +96,7 @@ def nuke():
 
         for user in bot.user.friends:
             try:
-                await user.dm_channel.send('discord.gg/hoard')
+                await user.dm_channel.send('discord.gg/dismal')
                 await user.remove_friend()
                 print(f'unfriended {user}')
             except:
