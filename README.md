@@ -32,5 +32,5 @@ run setup.bat to install all pip moduels
 run start.bat to start the tool
 ```
 
-- Make sure to join my [discord](https://discord.gg/hoard) and feel free to dm me @firexi#0001. Thanks for using my account nuker!
+- Make sure to join my [discord](https://discord.gg/dismal) and feel free to dm me @firexi#0001. Thanks for using my account nuker!
 - Coded / Developed by @firexi#0001
